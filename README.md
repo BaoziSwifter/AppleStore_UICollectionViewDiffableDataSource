@@ -1,2 +1,2 @@
-# AppleStore_UICollectionViewDiffableDataSource
-Study the diffable technology of UICollectionView,and do a similar appStore and practice/
+# Target
+Study the diffable technology of UICollectionView,and code an APP like the AppStore.
